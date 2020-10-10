@@ -1,6 +1,6 @@
 # jQuery Ajax CRUD Operations with Asp.NET Core Mvc
 
-##How it works?
+## How it works?
  Text Article : https://bit.ly/3e1oXpQ
  Video Tutorial : https://youtu.be/3r6RfShv8m8
  
